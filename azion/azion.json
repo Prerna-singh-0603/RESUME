@@ -1,0 +1,63 @@
+{
+  "name": "RESUME",
+  "bucket": "RESUME-20241028131211",
+  "preset": "astro",
+  "env": "production",
+  "prefix": "20241028131203",
+  "not-first-run": true,
+  "function": {
+    "id": 31313,
+    "name": "__DEFAULT__",
+    "file": ".edge/worker.js",
+    "args": "azion/args.json",
+    "instance-id": 29998,
+    "instance-name": "__DEFAULT__",
+    "cache-id": 0
+  },
+  "application": {
+    "id": 1730122326,
+    "name": "__DEFAULT__"
+  },
+  "domain": {
+    "id": 1730120956,
+    "name": "RESUME",
+    "domain_name": "d4ekc39exd.map.azionedge.net",
+    "url": "https://d4ekc39exd.map.azionedge.net"
+  },
+  "rt-purge": {
+    "purge_on_publish": true
+  },
+  "origin": [
+    {
+      "origin-id": 160597,
+      "origin-key": "1902ac25-e70e-44e5-b520-911973e09948",
+      "name": "origin-storage-default"
+    }
+  ],
+  "rules-engine": {
+    "created": false,
+    "rules": [
+      {
+        "id": 312121,
+        "name": "Set Storage Origin for All Requests",
+        "phase": "request"
+      },
+      {
+        "id": 312122,
+        "name": "Deliver Static Assets",
+        "phase": "request"
+      },
+      {
+        "id": 312123,
+        "name": "Redirect to index.html",
+        "phase": "request"
+      },
+      {
+        "id": 312124,
+        "name": "Redirect to index.html for Subpaths",
+        "phase": "request"
+      }
+    ]
+  },
+  "cache-settings": []
+}
