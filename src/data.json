@@ -24,8 +24,9 @@
       "location": "San Francisco, CA",
       "startDate": "2018",
       "endDate": "2023",
-      "highlights": [
-        "Managed WordPress development and custom theme creation
+      "highlights": 
+
+        {"Managed WordPress development and custom theme creation
 •
 Managed multiple large-scale projects, delivering all on time and within budget
 •
