@@ -1,4 +1,5 @@
-meta": {
+{
+  "meta": {
     "name": "Alex Willams",
     "title": "Experienced Full Stack Web Developer",
     "website": "https://github.com",
@@ -23,29 +24,25 @@ meta": {
       "location": "San Francisco, CA",
       "startDate": "2018",
       "endDate": "2023",
-      "highlights": 
-
-"Managed WordPress development and custom theme creation
-•
-Managed multiple large-scale projects, delivering all on time and within budget
-•
-Used WordPress, Elementor, WPBakery, and other plugins to build and edit custom themes, improving website performance by 30%
-•
-Collaborated with a team of developers, contributing to a 20% increase in team productivity",
+      "highlights": [
+        "Managed WordPress development and custom theme creation",
+        "Managed multiple large-scale projects, delivering all on time and within budget",
+        "Used WordPress, Elementor, WPBakery, and other plugins to build and edit custom themes, improving website performance by 30%",
+        "Collaborated with a team of developers, contributing to a 20% increase in team productivity"
+      ]
+    },
     {
       "company": "XYZ Tech",
       "position": "Web Developer",
       "location": "Los Angeles, CA",
       "startDate": "2015",
       "endDate": "2018",
-      "highlights": "Performed WordPress development and custom theme creation
-•
-Worked on multiple projects per week, all of which were delivered on time
-•
-Used WordPress, Elementor, WPBakery, and other plugins to build and edit custom themes, contributing to a 20% increase in website performance
-•
-Collaborated with a team of developers, contributing to a 15% increase in team productivity"
-
+      "highlights": [
+        "Performed WordPress development and custom theme creation",
+        "Worked on multiple projects per week, all of which were delivered on time",
+        "Used WordPress, Elementor, WPBakery, and other plugins to build and edit custom themes, contributing to a 20% increase in website performance",
+        "Collaborated with a team of developers, contributing to a 15% increase in team productivity"
+      ]
     },
     {
       "company": "DEF Tech",
@@ -54,13 +51,10 @@ Collaborated with a team of developers, contributing to a 15% increase in team p
       "startDate": "2014",
       "endDate": "2015",
       "highlights": [
-        "Gained practical experience in back-end development
-•
-Developed and maintained code for 10 client websites primarily using HTML, CSS, JavaScript, and Python
-•
-Collaborated with a team of 4 developers, gaining valuable teamwork experience
-•
-Worked on API integration and developed functionality for systems using APIs."
+        "Gained practical experience in back-end development",
+        "Developed and maintained code for 10 client websites primarily using HTML, CSS, JavaScript, and Python",
+        "Collaborated with a team of 4 developers, gaining valuable teamwork experience",
+        "Worked on API integration and developed functionality for systems using APIs."
       ]
     }
   ],
@@ -83,32 +77,25 @@ Worked on API integration and developed functionality for systems using APIs."
   ],
   "projects": [
     {
-      "description": "A dynamic task manager application. Made with Angular, Firebase for real-time updates and Material-UI for sleek design.
-",
+      "description": "A dynamic task manager application. Made with Angular, Firebase for real-time updates and Material-UI for sleek design.",
       "url": "https://github.com/facebook/react",
       "name": "TaskMaster",
       "repo": "facebook/react",
-      "stars": "221k"
+      "stars": 221000
     },
     {
       "description": "A Django-based web app that calculates carbon footprint and suggests greener alternatives. Utilizes PostgreSQL for data management",
       "url": "https://github.com/sveltejs/svelte",
       "name": "EcoMeter",
       "repo": "sveltejs/svelte",
-      "stars": "76.3k"
+      "stars": 76300
     },
     {
-      "description": "A self-paced learning program with interactive coding challenges. It's always open to improvements and new content.
-
-github.com/freeCodeCamp/freeCodeCamp
-www.enhancv.com
-Use This Example",
+      "description": "A self-paced learning program with interactive coding challenges. It's always open to improvements and new content.",
       "url": "https://github.com/vuejs/core",
       "name": "FreeCodeCamp Contributor",
       "repo": "vuejs/core",
-      "stars": "44.4k"
+      "stars": 44400
     }
   ]
 }
-
-
